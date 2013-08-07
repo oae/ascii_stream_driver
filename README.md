@@ -27,5 +27,7 @@ Just press Ctrl + c in `./writer` terminal.
 To Remove
 -------------
 
+```
 sudo rmmod asciistreamer
 make clean
+```
